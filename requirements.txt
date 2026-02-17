@@ -1,0 +1,6 @@
+# In production, it is recommended to use fixed version of dependencies.
+
+fastapi[standard]
+asyncpg
+httpx
+redis
